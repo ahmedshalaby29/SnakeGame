@@ -162,7 +162,7 @@ function gameLoop() {
 
   setTimeout(() => {
     window.requestAnimationFrame(gameLoop);
-  }, 500);
+  }, 100);
 }
 document.addEventListener("keydown", handleInput);
 startGame();
