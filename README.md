@@ -1,4 +1,4 @@
-# Browser Snake Game
+# Browser Snake Game 🐍
 
 Welcome to Browser Snake Game! This is a simple and classic snake game implemented using HTML, CSS, and JavaScript. The game utilizes CSS Grid for snake movement, providing a smooth and responsive gaming experience directly within your browser.
 
